@@ -1,4 +1,4 @@
-# A class project on catering system. 
+# A class project on Catering System. 
 
 
 Goal: Create, explain, and critique software products.
